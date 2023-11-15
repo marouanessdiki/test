@@ -116,7 +116,7 @@ Certainly! Here are the Git commands along with sample examples:
       git log --graph --oneline --all
       ```
 
-20. **git reset [commit]:**
+20. **git reset [commit] :**
     - Reset the current HEAD to the specified state.
       ```bash
       git reset --hard commit_sha
